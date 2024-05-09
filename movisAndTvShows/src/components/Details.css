@@ -1,0 +1,58 @@
+.details-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.loading {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  height: 100vh; 
+}
+
+.details-title {
+  font-size: 44px;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.details-poster {
+  width: 100%;
+  max-width: 50%;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+.details-overview {
+  font-size: 16px;
+  text-align: left;
+}
+
+.details-type {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+}
+
+.button {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.goBack {
+  border: none;
+  background: white;
+  cursor: pointer;
+  padding-bottom:10px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
